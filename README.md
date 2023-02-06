@@ -1,6 +1,8 @@
-# Assignment 5: Basic Memory Allocator
+# Basic Memory Allocator
 
-This is the starter code for [Assignment 5](https://course.ccs.neu.edu/cs3650f22/a05.html).
+Built a basic memory allocator in C to replicate the malloc, calloc, and free functionality. Written for a systems class. 
+
+Completed 11/2/2022.
 
 The [Makefile](Makefile) contains the following targets:
 
